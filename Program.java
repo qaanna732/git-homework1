@@ -13,7 +13,7 @@ public class Program {
 
         System.out.println("Enter the temperature value:");
         double temperature = scanner.nextDouble();
-
+//condition 1 or 2
         if (choice == 1) {
             double fahrenheit = celsiusToFahrenheit(temperature);
             System.out.println("Fahrenheit is " + fahrenheit);
