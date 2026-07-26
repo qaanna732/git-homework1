@@ -1,5 +1,5 @@
 package HW_Lecture1_TemperatureConverter;
-
+// Temperature converter application
 import java.util.Scanner;
 public class Program {
     public static void main(String[] args) {
